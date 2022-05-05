@@ -1,31 +1,33 @@
 ---
 # Display name
-title: Ульяна Морозова
+title: Ulyana Morozova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Студент и писатель
+role: Student and writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Моя жизнь посвящена Японии.
+bio: Love of Japan.
 
 # Interests to show in About widget
 interests:
-  - Япония
-  - Писательство
-  - Программирование
+  - Japan
+  - Writing
+  - Programming
 
 # Education to show in About widget
 education:
   courses:
-    - Бакалавриат, Прикладная математика и информатика, 2021
+    - course: Bachelor, Applied mathematics and computer science
+      institution: RUDN
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,5 +58,5 @@ email: ''
 highlight_name: true
 ---
 
-В 2021 году поступила в РУДН. Стремится поехать учиться в Японию.
+I dream of going to Japan.
 
