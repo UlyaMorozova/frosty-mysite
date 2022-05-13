@@ -26,7 +26,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2003-07-15'
-    description: 'Now there's nothing'
+    description: ''
     organization: My life
     organization_url: 
     title: Zero
