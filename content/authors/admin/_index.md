@@ -41,22 +41,22 @@ social:
     icon_pack: fab
     link: https://github.com/UlyaMorozova
   - icon: google-scholar
-    icon_pack: custom
+    icon_pack: ai
     link: https://scholar.google.com/
   - icon: orcid
-    icon_pack: custom
+    icon_pack: ai
     link: https://orcid.org/
   - icon: mendeley
-    icon_pack: custom
+    icon_pack: ai
     link: https://www.mendeley.com/
   - icon: researchgate
-    icon_pack: custom
+    icon_pack: ai
     link: https://www.researchgate.net/
   - icon: academia
-    icon_pack: custom
+    icon_pack: ai
     link: https://www.academia.edu/
   - icon: arxiv
-    icon_pack: custom
+    icon_pack: ai
     link: https://arxiv.org/
 
 
