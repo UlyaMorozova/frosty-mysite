@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Blog 19.05
-subtitle: "My last week""
+title: "Blog 19.05"
+subtitle: "My last week"
 summary: ""
 authors: [Ulyana]
 tags: [every week]
