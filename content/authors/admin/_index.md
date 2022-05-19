@@ -37,18 +37,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/UlyaMorozova
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: google-scholar
+    icon_pack: custom
+    link: https://scholar.google.com/
+  - icon: orcid
+    icon_pack: custom
+    link: https://orcid.org/
+  - icon: mendeley
+    icon_pack: custom
+    link: https://www.mendeley.com/
+  - icon: researchgate
+    icon_pack: custom
+    link: https://www.researchgate.net/
+  - icon: academia
+    icon_pack: custom
+    link: https://www.academia.edu/
+  - icon: arxiv
+    icon_pack: custom
+    link: https://arxiv.org/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

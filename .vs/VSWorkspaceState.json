@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
+    "\\assets",
+    "\\assets\\media",
+    "\\assets\\media\\icons",
+    "\\assets\\media\\icons\\brands",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
     "\\content\\home",
     "\\content\\post",
+    "\\content\\project",
     "\\data"
   ],
-  "SelectedNode": "\\content\\post\\post2.md",
+  "SelectedNode": "\\assets\\media\\icons\\brands",
   "PreviewInSolutionExplorer": false
 }
