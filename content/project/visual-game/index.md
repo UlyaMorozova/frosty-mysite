@@ -18,14 +18,13 @@ external_link: ""
 image:
   caption: "Main game menu"
   focal_point: ""
-  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Download
    url: https://disk.yandex.ru/d/Le8nF7kgu8YuWQ
-   icon_pack: fab
+   icon_pack: fas
    icon: cloud-arrow-down
 
 url_code: ""
