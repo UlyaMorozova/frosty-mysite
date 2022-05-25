@@ -4,13 +4,13 @@
     "\\assets",
     "\\assets\\media",
     "\\assets\\media\\icons",
-    "\\assets\\media\\icons\\brands",
     "\\content",
-    "\\content\\home",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\post",
     "\\content\\project",
     "\\data"
   ],
-  "SelectedNode": "\\assets\\media\\icons\\brands",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
