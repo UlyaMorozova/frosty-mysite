@@ -3,7 +3,8 @@
 
 title: "Jack of Diamonds"
 summary: "My first visual game"
-authors: [Ulyana]
+authors: 
+  - admin
 tags: 
   - Hobby
 categories: []

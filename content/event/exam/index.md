@@ -23,7 +23,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-05-25T23:08:58+03:00
 
-authors: [Ulyana]
+authors: 
+  - Ulyana
 tags: [exams]
 
 # Is this a featured event? (true/false)
