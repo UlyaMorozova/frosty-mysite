@@ -4,7 +4,8 @@
 title: "Markdown"
 subtitle: ""
 summary: ""
-authors: [Ulyana]
+authors: 
+  - admin
 tags: [interesting]
 categories: [programming]
 date: 2022-05-13T21:21:25+03:00

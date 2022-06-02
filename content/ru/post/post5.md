@@ -1,14 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Blog 05.05"
-subtitle: "My last week"
+title: "Блог 19.05"
+subtitle: "Моя прошлая неделя"
 summary: ""
-authors: []
-tags: [every week]
-categories: [blog]
-date: 2022-05-05T11:07:31+03:00
-lastmod: 2022-05-05T11:07:31+03:00
+authors: 
+  - admin 
+tags: [каждая неделя]
+categories: [блог]
+date: 2022-05-19T20:09:05+03:00
+lastmod: 2022-05-19T20:09:05+03:00
 featured: false
 draft: false
 
@@ -28,4 +29,4 @@ image:
 projects: []
 ---
 
-Last week I continued working on my game and completed more than half of the labs.
+Я сделала все лабы.

@@ -4,7 +4,8 @@
 title: "Git. Version Control"
 subtitle: ""
 summary: ""
-authors: []
+authors: 
+  - admin
 tags: [interesting]
 categories: [science]
 date: 2022-05-05T11:15:23+03:00

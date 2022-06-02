@@ -1,16 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\media",
     "\\assets\\media\\icons",
     "\\content",
-    "\\content\\authors",
     "\\content\\authors\\admin",
+    "\\content\\event\\exam",
+    "\\content\\home",
     "\\content\\post",
-    "\\content\\project",
-    "\\data"
+    "\\content\\project\\visual-game"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\home\\contact.md",
   "PreviewInSolutionExplorer": false
 }

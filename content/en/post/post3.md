@@ -4,7 +4,8 @@
 title: "Blog 13.05"
 subtitle: "My last week"
 summary: ""
-authors: [Ulyana]
+authors: 
+  - admin
 tags: [every week]
 categories: [blog]
 date: 2022-05-13T21:18:32+03:00

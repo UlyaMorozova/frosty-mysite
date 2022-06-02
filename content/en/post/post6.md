@@ -4,7 +4,8 @@
 title: "Bibliography"
 subtitle: ""
 summary: ""
-authors: []
+authors: 
+  - admin
 tags: [interesting]
 categories: [science]
 date: 2022-05-19T20:09:15+03:00
